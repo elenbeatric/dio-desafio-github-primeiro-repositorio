@@ -1,9 +1,9 @@
 Sintaxes da linguagem JavaScript - Básico
 
-if #condiçao
-else #condiçao contraria a primeira
-var # inserir variaveis
+if    #condiçao
+else  #condiçao contraria a primeira
+var   # inserir variaveis
 function #criar funções
-return #printar resultados
-break #interrompe o codigo caso a funçao for verdadeira ou falsa
-while #estrutura de repetição
+return   #printar resultados
+break    #interrompe o codigo caso a funçao for verdadeira ou falsa
+while    #estrutura de repetição
